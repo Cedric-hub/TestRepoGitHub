@@ -1,2 +1,3 @@
 Je suis texte.txt
 Edit
+Je suis un texte // conflit
